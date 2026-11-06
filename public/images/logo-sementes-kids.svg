@@ -1,0 +1,47 @@
+<svg width="200" height="200" viewBox="0 0 160 160" role="img" xmlns="http://www.w3.org/2000/svg">
+      <title>Sementes Kids</title>
+      <rect x="3" y="3" width="154" height="154" rx="28" fill="#FDFAF5" stroke="#d5e4d8" stroke-width="1.5"/>
+      <circle cx="80" cy="60" r="40" fill="#e8f2eb"/>
+      <path d="M115 26v10m-5-5h10" stroke="#d4a820" stroke-width="2" stroke-linecap="round"/>
+      <circle cx="42" cy="42" r="2.5" fill="#F5C842"/>
+
+      <!-- livro aberto -->
+      <path d="M52 97 Q52 77 53 70 Q60 68 68 69 L68 89 Q61 88 52 97Z" fill="#4A7C59"></path>
+      <path d="M108 97 Q108 77 107 70 Q100 68 92 69 L92 89 Q99 88 108 97Z" fill="#3d6b4a"></path>
+      <path d="M68 69 L68 89 L80 92 L80 72Z" fill="#f0ede6"></path>
+      <path d="M92 69 L92 89 L80 92 L80 72Z" fill="#e8e4dc"></path>
+      <path d="M80 72 L80 92" stroke="#c8a96e" stroke-width="1" fill="none"></path>
+      <line x1="57" y1="77" x2="66" y2="76" stroke="#a8d4b0" stroke-width="1" stroke-linecap="round"></line>
+      <line x1="57" y1="82" x2="66" y2="81" stroke="#a8d4b0" stroke-width="1" stroke-linecap="round"></line>
+      <line x1="57" y1="87" x2="66" y2="86" stroke="#a8d4b0" stroke-width="1" stroke-linecap="round"></line>
+      <line x1="94" y1="76" x2="103" y2="77" stroke="#c8b89a" stroke-width="1" stroke-linecap="round"></line>
+      <line x1="94" y1="81" x2="103" y2="82" stroke="#c8b89a" stroke-width="1" stroke-linecap="round"></line>
+      <line x1="94" y1="86" x2="103" y2="87" stroke="#c8b89a" stroke-width="1" stroke-linecap="round"></line>
+      <path d="M52 97 Q80 104 108 97" stroke="#2f5238" stroke-width="1.2" fill="none"></path>
+
+      <!-- caule -->
+      <path d="M80 72 Q80 56 80 40" stroke="#2f5238" stroke-width="2.2" stroke-linecap="round" fill="none"></path>
+      <!-- folha esquerda -->
+      <path d="M80 60 Q63 50 59 35 Q72 32 78 46 Q79 53 80 60Z" fill="#4A7C59"></path>
+      <!-- folha direita -->
+      <path d="M80 54 Q97 43 102 28 Q89 26 82 40 Q80 47 80 54Z" fill="#5a9468"></path>
+      <!-- folha pequena esq -->
+      <path d="M80 47 Q68 39 66 29 Q75 27 79 38 Q80 43 80 47Z" fill="#3d6b4a"></path>
+      <!-- brilho folha -->
+      <path d="M88 40 Q93 34 97 31" stroke="#a8d4b0" stroke-width="1" stroke-linecap="round" fill="none" opacity="0.7"></path>
+
+      <!-- estrelinhas ao redor do broto -->
+      <circle cx="57" cy="34" r="1.8" fill="#F5C842" opacity="0.9"></circle>
+      <circle cx="104" cy="27" r="1.6" fill="#F5C842" opacity="0.8"></circle>
+      <circle cx="61" cy="50" r="1.1" fill="#F5C842" opacity="0.6"></circle>
+      <circle cx="101" cy="46" r="1.2" fill="#F5C842" opacity="0.7"></circle>
+
+      <!-- SEMENTES -->
+      <text x="80" y="118" text-anchor="middle" font-family="'Playfair Display', serif" font-size="19" font-weight="900" fill="#2f5238" letter-spacing="1">SEMENTES</text>
+      <!-- separador -->
+      <line x1="24" y1="123" x2="63" y2="123" stroke="#c8a96e" stroke-width="0.9"></line>
+      <circle cx="80" cy="123" r="1.8" fill="#F5C842"></circle>
+      <line x1="97" y1="123" x2="136" y2="123" stroke="#c8a96e" stroke-width="0.9"></line>
+      <!-- KIDS -->
+      <text x="80" y="141" text-anchor="middle" font-family="'Inter', sans-serif" font-size="14" font-weight="700" fill="#4A7C59" letter-spacing="4">KIDS</text>
+    </svg>
